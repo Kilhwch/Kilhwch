@@ -2,7 +2,7 @@
 - 👀 I’m interested in software automation and game programming.
 - 🌱 I’m currently learning Unity & C#.
 - 💞️ I’m looking to collaborate on Unity & C# projects.
-- 📫 Reach me at NA.
+- 📫 Reach me at first dot last at gmail.com.
 
 <!---
 Kilhwch/Kilhwch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
