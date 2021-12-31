@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kilhwch
+- 👋 Hi, I’m @Kilhwch (Kasper Kivikataja)
 - 👀 I’m interested in software automation and game programming.
 - 🌱 I’m currently learning Unity & C#.
 - 💞️ I’m looking to collaborate on Unity & C# projects.
